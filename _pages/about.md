@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Nino</strong> Cauli
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="">Affiliations</a>. Address. Contacts. Moto. Bla. Etc.
 
 profile:
   align: right
