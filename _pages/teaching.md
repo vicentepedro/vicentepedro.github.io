@@ -2,9 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Summary of my past teching activities.
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+* <b>2018</b> Co-supervisor M.Sc. thesis on autonomous UAV navigation using vision and deep reinforcement learning. <i>VisLab, ISR, IST, Lisbon</i>
+* <b>2017-2018</b> Co-supervisor M.Sc. thesis on UAV autonomous landing on a mobile base using vision. <i>VisLab, ISR, IST, Lisbon</i>
+* <b>2017-2018</b> Help in supervising Ph.D. thesis on learning from demonstration how to clean a table using deep neural networks. <i>VisLab, ISR, IST, Lisbon</i>
+* <b>2013</b> Laboratory assistant in the M.Sc. course of ''Robotic Perception'' at the School of Computer Science. <i>University of Pisa, Italy</i>
