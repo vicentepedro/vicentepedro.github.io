@@ -22,6 +22,7 @@ twitter_username: # your Twitter handle
 linkedin_username: "nino-cauli-b0376381" # your LinkedIn user name
 scholar_userid: "Nino Cauli" # your Google Scholar ID
 orcid_id: "0000-0002-9611-0655" # your ORCID ID
+research_gate_userid: "Nino_Cauli" # your Research Gate ID
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
@@ -97,7 +98,7 @@ scholar:
   order: descending
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: conference.bib, journal.bib, submitted.bib
   bibliography_template: bib
 
   replace_strings: true
