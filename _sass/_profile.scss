@@ -1,13 +1,16 @@
 .profile {
     img {
+        margin-left: 15px;
         box-shadow: 0 0 5px $grey-color;
-        width: 100%;
+        width: 92%;
     }
 }
 .address {
     font-family: monospace;
 
-    p { margin: 0; }
+    p { margin: 0;
+        margin-left: 15px;
+        font-size: 12px; }
 }
 
 .news {
