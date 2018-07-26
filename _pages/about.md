@@ -2,16 +2,13 @@
 layout: about
 permalink: /
 title: <strong>Nino</strong> Cauli
-description: <a href="">Institute for Systems and Robotics (ISR/IST), LARSyS, Instituto Superior Técnico, Univ Lisboa.</a>
+description: <a href="">Institute for Systems and Robotics (ISR/IST), LARSyS, Instituto Superior Técnico, Univ Lisboa.</a><br/><b>ncauli@isr.ist.utl.pt - nigno17@gmail.com</b></p>
 
 profile:
   align: right
   image: nino.jpg
   address: >
     <p align="justify">Instituto Superior Técnico, Torre Norte, 7<sup>th</sup> floor, Av. Rovisco Pais n<sup>o</sup>1, 1049-001, Lisboa, Portugal.</p>
-    <br/>
-    <p align="justify"><b>ncauli@isr.ist.utl.pt</b></p>
-    <p align="justify""><b>nigno17@gmail.com</b></p>
 
 news: true
 social: true
