@@ -6,6 +6,8 @@ description: Publications by categories in reversed chronological order. Generat
 yearsJournal: [2017, 2016]
 yearsConference: [2018, 2015, 2014, 2012, 2011]
 yearsSubmitted: [2018]
+
+social: true
 ---
 
 <h2 class="year">Journals</h2>

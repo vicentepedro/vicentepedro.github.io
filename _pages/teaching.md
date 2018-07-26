@@ -3,6 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Summary of my past teching activities.
+
+social: true
 ---
 
 * <b>2018</b> Co-supervisor M.Sc. thesis on autonomous UAV navigation using vision and deep reinforcement learning. <i>VisLab, ISR, IST, Lisbon</i>
