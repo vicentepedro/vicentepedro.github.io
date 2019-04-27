@@ -14,11 +14,11 @@ news: true
 social: true
 ---
 
-I am a PhD student on the FCT-Doctoral Program: Robotics, Brain and Cognitionm supervised by <a href="http://www.isr.tecnico.ulisboa.pt/~alex"> Prof. Alexandre Bernardino</a> and <a href="http://www.isr.tecnico.ulisboa.pt/~jasv"> Prof. Santos-Victor</a>. 
+I am a PhD student on the FCT-Doctoral Program: Robotics, Brain and Cognition supervised by <a href="http://www.isr.tecnico.ulisboa.pt/~alex"> Prof. Alexandre Bernardino</a> and <a href="http://www.isr.tecnico.ulisboa.pt/~jasv"> Prof. Santos-Victor</a>. 
 
 I have received my Masters in Electrical and Computer Engineering from Instituto Superior Técnico in 2014 with a Thesis called "Real time graphical simulation for visual based pose estimation and self-calibration of a humanoid robotic arm". 
 
-My main research interests are in computer vision and humanoids robots. In particularly, I am interesting in visually guided reaching and grasping, online robot self-calibration and visual servoing.
+My main research interests are in computer vision and humanoids robots. In particular, I am interested in visually guided reaching and grasping, online robot self-calibration and visual servoing.
 
 I have participated in the EU projects <a href="http://www.first-mm.eu/">FIRST-MM</a> and <a href="http://www.poeticon.eu/"> Poeticon++</a>.
 
