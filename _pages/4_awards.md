@@ -7,6 +7,10 @@ description: Summary of funding, grants received and awards.
 social: true
 ---
 
+* <b>2020</b> Best Poster Award    
+    <p> <i>RECPAD 2020</i>
+* <b>2020</b> Highly Commended Paper Award    
+    <p> <i>IEEE ICARSC 2020</i>
 * <b>2018</b> Best Conference Paper Award    
     <p> <i>IEEE ICARSC 2018</i>
 * <b>2017</b> RAS Travel Grant to ICRA 2017    
