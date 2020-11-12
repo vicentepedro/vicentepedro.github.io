@@ -1,3 +1,40 @@
+@inproceedings{gcunha2020recpad,
+  title={{Active Robot Learning for Efficient Body-Schema Online Adaptation}},
+  author={Cunha, Gonçalo and Bernardino, Alexandre and Vicente, Pedro and  and Ribeiro, Ricardo and Moreno, Plínio},
+  booktitle={Portuguese Conference on Pattern Recognition (RecPad)},
+  year={2020},
+  pdf={acunha-recpad2020.pdf},
+  ABSTRACT={
+    This work proposes an active learning approach for estimating the Denavit-Hartenberg parameters of 7 joints of the iCub arm in a simulation 
+    environment, using observations of the end-effector’s pose and knowing the values from proprioceptive sensors. Cost-sensitive active learning, 
+    aims to reduce the number of measurements taken and also reduce the total movement performed by the robot while calibrating, thus reducing 
+    energy consumption, along with mechanical fatigue and wear. The estimation of the arm’s parameters is done using the Extended Kalman Filter 
+    and the active exploration is guided by the A-Optimality criterion. The results show cost-sensitive active learning can perform similarly to 
+    the straightforward active learning approach, while reducing significantly the necessary movement.
+  },
+}
+@INPROCEEDINGS{mnascimento2020icarsc,
+  author={M. {Nascimento} and P. {Vicente} and A. {Bernardino}},
+  booktitle={IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)}, 
+  title={2D Visual Servoing meets Rapidly-exploring Random Trees for collision avoidance}, 
+  year={2020},
+  pages={227-232},
+  doi={10.1109/ICARSC49921.2020.9096133},
+  pdf={mnascimento2020icarsc.pdf},
+  ABSTRACT = {
+    Visual Servoing is a well-known subject in robotics. However, there are still some challenges on the visual control of robots for applications 
+    in human environments. In this article, we propose a method for path planning and correction of kinematic errors using visual servoing. 
+    3D information provided by external cameras will be used for segmenting the environment and detecting the obstacles in the scene. 
+    Rapidly-exploring Random Trees are then used to calculate a path through the obstacles to a given, previously calculated, end-effector goal pose. 
+    This allows for model-free path planning for cluttered environments by using a point cloud representation of the environment. 
+    The proposed path is then followed by the robot in open-loop. Error correction is performed near the goal pose by using real-time calculated 
+    image features as control points for an Image-Based Visual Servoing controller that drives the end-effector towards the desired goal pose. 
+    With this method, we intend to achieve the navigation of a robotic arm through a cluttered environment towards a goal pose with error correction 
+    performed at the end of the trajectory to mitigate both the weaknesses of Image Based Visual Servoing and of open-loop trajectory following. 
+    We made several experiments in order to validate our approach by evaluating each individual main component (environment segmentation, trajectory 
+    calculation and error correction through visual servoing) of our solution. Furthermore, our solution was implemented in ROS using the Baxter 
+    Research Robot.
+  }
 %%%%% incomplete  %%%%%
 @inproceedings{adehban2019icdl,
   title={{Robotic Interactive Physics Parameters Estimator (RIPPE)}},
