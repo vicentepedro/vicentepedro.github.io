@@ -13,6 +13,8 @@ social: true
     <p> <i>IEEE ICARSC 2020</i>
 * <b>2018</b> Best Conference Paper Award    
     <p> <i>IEEE ICARSC 2018</i>
+* <b>2017</b> Best Humanoid Photo - "To be or not to be"
+    <p> <i>IEEE Humanoids 2017</i>
 * <b>2017</b> RAS Travel Grant to ICRA 2017    
     <p> <i>IEEE-RAS</i>
 * <b>2016</b> PhD Grant on FCT Robotics Brain and Cognition Doctoral Program   
